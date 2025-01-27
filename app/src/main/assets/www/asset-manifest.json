@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.444da38d.css",
+    "main.js": "./static/js/main.ccf9b890.js",
+    "static/js/453.a5a72b74.chunk.js": "./static/js/453.a5a72b74.chunk.js",
+    "static/media/mathium.svg": "./static/media/mathium.d2bdd2f52e7a3dec34fa2aef1987ce4a.svg",
+    "static/media/winSound.mp3": "./static/media/winSound.67aed350fcb76a6f1afa.mp3",
+    "static/media/crown.png": "./static/media/crown.dd4d1bea5a5722acff30.png",
+    "static/media/correctSound.mp3": "./static/media/correctSound.fe1b2a329834b111380d.mp3",
+    "static/media/hourglass.png": "./static/media/hourglass.025b779dc2e279012563.png",
+    "static/media/selectionSound.mp3": "./static/media/selectionSound.9633291211c291e23cab.mp3",
+    "static/media/incorrectSound.mp3": "./static/media/incorrectSound.ed7976943b9e49757ec3.mp3",
+    "static/media/buttonSound.mp3": "./static/media/buttonSound.a751eb2ebd2b7940557e.mp3",
+    "index.html": "./index.html",
+    "main.444da38d.css.map": "./static/css/main.444da38d.css.map",
+    "main.ccf9b890.js.map": "./static/js/main.ccf9b890.js.map",
+    "453.a5a72b74.chunk.js.map": "./static/js/453.a5a72b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.444da38d.css",
+    "static/js/main.ccf9b890.js"
+  ]
+}
